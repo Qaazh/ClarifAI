@@ -1,5 +1,6 @@
 # ClarifAI
 Transforming Data Chaos into Strategic Advantage 
+---
 **_A powerful, customizable tool to structure and standardize messy enterprise data with AI_**
 
 ---
