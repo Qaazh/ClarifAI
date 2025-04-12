@@ -81,7 +81,7 @@ MUFFEN-RUECKSCHLAGVENTIL // FUER SENKRECHTEN UND // WAAGRECHTEN EINBAU // R 2", 
     "Größe": "2\"",
     "DIN / ISO": "PN 18"
   },
-  "short_description": "MUFFEN-RUECKSCHLAGVENTIL R 2" NBR"
+  "short_description": "MUFFEN-RUECKSCHLAGVENTIL R 2\" NBR"
 }
 ```
 
