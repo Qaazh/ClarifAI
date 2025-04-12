@@ -64,21 +64,75 @@ ClarifAI uses both **rule-based logic** and **local/remote Large Language Models
 **Input:**
 
 ```
-für APIC Wasserfilter FMA 9000 | Ref: 9000/CPF01/230/VH | Pos. 48
+MUFFEN-RUECKSCHLAGVENTIL // FUER SENKRECHTEN UND // WAAGRECHTEN EINBAU // R 2", PN 18, IG, MESSING // NBR-DELRIN, CA. 110 G C
 ```
 
 **Output:**
 
 ```json
 {
-  "product_name": "APIC Wasserfilter FMA 9000",
-  "characteristics": ["Ref: 9000/CPF01/230/VH", "Pos. 48"],
-  "material_type": "filter",
+  "product_name": "MUFFEN-RUECKSCHLAGVENTIL",
+  "characteristics": ["R 2\"", "NBR-DELRIN"],
+  "material_type": "valve",
   "unit_of_measure": "ST",
-  "categorization": {},
-  "short_description": "APIC Wasserfilter FMA 9000"
+  "categorization": {
+    "Typ": "R 2\"",
+    "Werkstoff": "MESSING",
+    "Größe": "2\"",
+    "DIN / ISO": "PN 18"
+  },
+  "short_description": "MUFFEN-RUECKSCHLAGVENTIL R 2" NBR"
 }
 ```
+
+**Input:**
+
+```
+WELLENDICHTRING // 105X130X12 // SL/VITON // BA
+```
+
+**Output:**
+
+```json
+{
+  "product_name": "WELLENDICHTRING",
+  "characteristics": ["105X130X12", "VITON"],
+  "material_type": "seal",
+  "unit_of_measure": "ST",
+  "categorization": {
+    "Durchmesser innen (mm)": "105",
+    "Durchmesser außen (mm)": "130",
+    "Höhe (mm)": "12",
+    "Werkstoff": "VITON",
+    "Typ": "BA"
+  },
+  "short_description": "WELLENDICHTRING 105X130X12 BA"
+}
+```
+**Input:**
+
+```
+Wirbelring 65/85-A // für Handbrenner DURAMAX 85 // passend für Plasmagerät // HYPERTHERM POWERMAX 65 // SN65-036894 / PN083235
+```
+**Output:**
+
+```json
+{
+  "product_name": "Wirbelring",
+  "characteristics": ["65/85-A", "HYPERTHERM"],
+  "material_type": "ring",
+  "unit_of_measure": "ST",
+  "categorization": {
+    "Durchmesser innen (mm)": "65",
+    "Durchmesser außen (mm)": "85",
+    "Fabrikat / Hersteller": "HYPERTHERM",
+    "Maschinen-Nr.": "SN65-036894",
+    "Zeichnung-Nr.": "PN083235"
+  },
+  "short_description": "Wirbelring 65/85 HYPERTHERM"
+}
+```
+---
 
 ---
 
