@@ -211,3 +211,7 @@ Developed for Südstärke GmbH challenge, 2025 Hackathon10
 ---
 
 ## 📄 License
+
+All rights reserved.
+
+This code is proprietary and is not open for public use, distribution, or modification unless explicitly authorized. Unauthorized use or distribution of this code is prohibited.
