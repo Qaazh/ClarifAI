@@ -6,9 +6,9 @@ Transforming Data Chaos into Strategic Advantage
 
 ## 🚀 Overview
 
-**ClarifAI** is a data transformation engine designed to bring order to chaotic, unstructured datasets often found across industrial and enterprise environments. Born during a hackathon and built by a team of students, OmniParse processes non-standardized material descriptions—such as those stored in Excel sheets—into clean, structured, and usable product information.
+**ClarifAI** is a data transformation engine designed to bring order to chaotic, unstructured datasets often found across industrial and enterprise environments. Born during a hackathon and built by a team of students, ClarifAI processes non-standardized material descriptions—such as those stored in Excel sheets—into clean, structured, and usable product information.
 
-Although our hackathon challenge focuses on material master data, OmniParse is built to be _general-purpose_: any domain, any format, any company.
+Although our hackathon challenge focuses on material master data, ClarifAI is built to be _general-purpose_: any domain, any format, any company.
 
 ---
 
@@ -33,7 +33,7 @@ Real-world examples from German industry show that **data incompatibility betwee
 
 ## 💡 The Solution: ClarifAI
 
-OmniParse is a modular, AI-powered framework that automates the process of:
+ClarifAI is a modular, AI-powered framework that automates the process of:
 
 - 🧼 Cleaning and normalizing free-text material descriptions  
 - 🧠 Extracting structured product fields (name, specs, type, etc.)  
