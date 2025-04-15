@@ -15,7 +15,7 @@ Although our hackathon challenge focuses on material master data, ClarifAI is bu
 
 ## 🧩 The Problem
 
-In many companies, especially in **manufacturing, logistics, procurement**, and **mergers**, critical data like material descriptions are stored in free-text formats with no common structure or governance. These descriptions:
+In many companies, especially in **manufacturing, logistics, procurement**, and **mergers**, critical data are stored in free-text formats with no common structure or governance. These information:
 
 - Come from multiple tools and departments  
 - Are written by different people over time  
