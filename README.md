@@ -1,8 +1,30 @@
 # ClarifAI - Transforming Data Chaos into Strategic Advantage 
 
-<p align="center"><img src="./ClarifAIlogo.jpg" width="680" alt="Logo"></p>
+
+
+
+<div align="center">
+
+![Last Commit](https://img.shields.io/github/last-commit/Qaazh/ClarifAI?label=last%20commit&color=2563eb)
+![Top Language](https://img.shields.io/github/languages/top/Qaazh/ClarifAI?color=2563eb)
+![Languages](https://img.shields.io/github/languages/count/Qaazh/ClarifAI?label=languages&color=f59e0b)
+
+### Built with the tools and technologies:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white)
+![FuzzyWuzzy](https://img.shields.io/badge/FuzzyWuzzy-8B5CF6?style=for-the-badge)
+![Levenshtein](https://img.shields.io/badge/python--Levenshtein-0EA5E9?style=for-the-badge)
+![Regex](https://img.shields.io/badge/Regex-4B5563?style=for-the-badge&logo=markdown&logoColor=white)
+![Excel I/O](https://img.shields.io/badge/Excel%20I%2FO-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
+<p align="center"><img src="./ClarifAIlogo.jpg" width="680" alt="Logo"></p>
+
 **_A powerful, customizable tool to structure and standardize messy enterprise data with AI_**
 
 ---
