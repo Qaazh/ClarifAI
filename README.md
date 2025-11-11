@@ -31,7 +31,7 @@
 
 ## 🚀 Overview
 
-**ClarifAI** is a data transformation engine designed to bring order to chaotic, unstructured datasets often found across industrial and enterprise environments. Born during a hackathon, ClarifAI processes non-standardized material descriptions—such as those stored in Excel sheets—into clean, structured, and usable product information.
+**ClarifAI** is a data transformation engine designed to bring order to chaotic, unstructured datasets often found across industrial and enterprise environments. Born during a hackathon, ClarifAI processes non-standardized material descriptions, such as those stored in Excel sheets, into clean, structured, and usable product information.
 
 Although our hackathon challenge focuses on material master data, ClarifAI is built to be _general-purpose_: any domain, any format, any company.
 
